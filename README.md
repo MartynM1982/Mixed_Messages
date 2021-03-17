@@ -6,4 +6,5 @@ The aim of this project is to build a message generator program that outputs a n
 ### Technologies
 - JavaScript ES6
 - Git and GitHub
-- Command line
+- GitBash
+- Visual Studio Code
