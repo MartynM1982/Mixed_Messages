@@ -8,3 +8,4 @@ The aim of this project is to build a message generator program that outputs a n
 - Git and GitHub
 - Git Bash
 - Visual Studio Code
+- Node.js
